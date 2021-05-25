@@ -9,7 +9,7 @@ Assignment 1 - Maintain Efficient Process Utilization on Windows
 
 **Assignment-2**
 
-Assignment 2 - Using Logs to Help You Track Down an Issue in Windows
+Assignment 2 - Using Logs to Help Track Down an Issue in Windows
 Using logs to help troubleshoot and track down an issue.
 * Assigning /Modifying file permissions
 * Finding and deleting files
